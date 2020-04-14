@@ -23,6 +23,7 @@ o domiciliar)", é importante que seja notato que essa convenção foi utilizada
 - **FLU-NOTISO:** Casos suspeitos de Sindrome Gripal (pode ocorrer de ser COVID19, já que o teste não é efetuado nesses casos).
 
 ### Erros encontrados no dataset
+Como os dados são colocados de forma manual é possível que se haver um error do operador na hora de inserir novos/atualizar dados.
 - Nenhum até o momento.
 
 ### Ultima atualização
