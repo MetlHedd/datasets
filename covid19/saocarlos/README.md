@@ -28,4 +28,5 @@ Como os dados são colocados de forma manual é possível que se haver um error 
 
 ### Ultima atualização
 Atualizações são feitas diaramente, normalmente no período noturno.
-13/04/2020
+
+**Data da última atualização:** 13/04/2020
