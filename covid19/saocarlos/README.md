@@ -8,6 +8,7 @@ O arquivo `dataset.csv` contém os dados distribuidas pela Prefeitura de São Ca
 o domiciliar)", é importante que seja notato que essa convenção foi utilizada de acordo com o protocolo do ministério de saúde.
 - - No dataset esses dados são apresentados de forma unificada na coluna: `FLU-NOTISO`;
 - - Casos suspeitos em isolamento domiciliar e de sindrome gripais foram sumados juntos unicamente para essa coluna.
+- **Casos em internados, em enfermaria e UTI:** apenas a partir de 07/04/2020 a prefeitura começou a disponibilizar os casos separados nessa três categorias, anteriormente (por falta de presença de dados, ou por não ter nenhum suspeito nesses casos) a prefeitura disponibilizava apenas o número de internados e agora é divulgado nas três categorias.
 
 ### Colunas
 - **Data:** Apresenta a data dos dados presentes na linha atual;
