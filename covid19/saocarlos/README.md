@@ -7,7 +7,7 @@ O arquivo `dataset.csv` contém os dados distribuidas pela Prefeitura de São Ca
 - **Casos suspeitos notificados ou em isolamento domicial:** A prefeitura identificava casos (a partir de 25/03/2020 até 05/04/2020) suspeitos com sintomas leves do vírus primeiramente como "casos suspeitos em isolamento domilicar", a partir 27/03/2020 começou a dar os casos suspeitos tanto de COVID19 como Sindrome Gripal (já que em seus sintomas leves eles possuem suas semelhanças), como unicamente como "Isolamento Domicial (Sindrome Gripal)". Dias depois (especificamente 11/04/2020) a prefeitura adotou a forma de distribuir os dados de forma separada, como: "Sindrome Gripal (notificações)" e "Síndrome Gripal (ainda em isolament
 o domiciliar)", é importante que seja notato que essa convenção foi utilizada de acordo com o protocolo do ministério de saúde.
 - - No dataset esses dados são apresentados de forma unificada na coluna: `FLU-NOTISO`;
-- - Casos suspeitos em isolamento domiciliar e de sindrome gripais foram sumados juntos unicamente para essa coluna.
+- - Casos suspeitos em isolamento domiciliar e notificações de sindrome gripais foram sumados juntos unicamente para essa coluna, junto com os casos suspeitos em isolamento domiciliar de COVID19.
 - **Casos em internados, em enfermaria e UTI:** apenas a partir de 07/04/2020 a prefeitura começou a disponibilizar os casos separados nessa três categorias, anteriormente (por falta de presença de dados, ou por não ter nenhum suspeito nesses casos) a prefeitura disponibilizava apenas o número de internados e agora é divulgado nas três categorias.
 
 ### Colunas
