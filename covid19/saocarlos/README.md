@@ -22,6 +22,9 @@ o domiciliar)", é importante que seja notato que essa convenção foi utilizada
 - **CV19-DESC:** Óbitos descartados de COVID19;
 - **FLU-NOTISO:** Casos suspeitos de Sindrome Gripal (pode ocorrer de ser COVID19, já que o teste não é efetuado nesses casos).
 
+### Erros encontrados no dataset
+- Nenhum até o momento.
+
 ### Ultima atualização
 Atualizações são feitas diaramente, normalmente no período noturno.
 13/04/2020
