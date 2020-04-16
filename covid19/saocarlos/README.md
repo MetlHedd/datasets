@@ -18,8 +18,8 @@ o domiciliar)", é importante que seja notato que essa convenção foi utilizada
 - **CV19-CONF:** Casos confirmados de COVID19;
 - **CV19-DESC:** Casos descartados de COVID19;
 - **CV19-MINV:** Óbitos em investigação de COVID19;
-- **CV19-CONF:** Óbitos confirmados de COVID19;
-- **CV19-DESC:** Óbitos descartados de COVID19;
+- **CV19-MDESC:** Óbitos descartados de COVID19;
+- **CV19-MCONF:** Óbitos confirmados de COVID19;
 - **FLU-NOTISO:** Casos suspeitos de Sindrome Gripal (pode ocorrer de ser COVID19, já que o teste não é efetuado nesses casos).
 
 ### Erros encontrados no dataset
