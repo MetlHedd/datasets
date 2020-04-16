@@ -24,7 +24,7 @@ o domiciliar)", é importante que seja notato que essa convenção foi utilizada
 
 ### Erros encontrados no dataset
 Como os dados são colocados de forma manual é possível que se haver um error do operador na hora de inserir novos/atualizar dados.
-- Nenhum até o momento.
+- 16/04/2020: A ordem das colunas **CV19-MDESC** e **CV19-MCONF** estava incorreta (deveria ser ao contrário).
 
 ### Ultima atualização
 Atualizações são feitas diaramente, normalmente no período noturno.
