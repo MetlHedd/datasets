@@ -25,8 +25,9 @@ o domiciliar)", é importante que seja notato que essa convenção foi utilizada
 ### Erros encontrados no dataset
 Como os dados são colocados de forma manual é possível que se haver um error do operador na hora de inserir novos/atualizar dados.
 - 16/04/2020: A ordem das colunas **CV19-MDESC** e **CV19-MCONF** estava incorreta (deveria ser ao contrário), corrigdo em: https://github.com/MetlHedd/datasets/commit/e0ba00b39c0c50df05de2f10d8ee8570c2b88e73.
+- 19/04/2020, 20/04/2020 - Em 19/04 a prefeitura notificou o n° de óbitos descartados por COVID19 como 11, no dia seguinte mudou esse número para 10, para o dia 19/04 foi alterado para 10 o n° de óbitos descartas, a prefeitura não notificou a causa do erro nos dados.
 
 ### Ultima atualização
 Atualizações são feitas diaramente, normalmente no período noturno.
 
-**Data da última atualização:** 19/04/2020
+**Data da última atualização:** 21/04/2020
